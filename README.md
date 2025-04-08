@@ -16,7 +16,7 @@ A simple REST API built with Flask for user registration, login, and referral tr
 - Referral Details : Retrieve user details along with their referred users.
 
 - Extra APIs : Fetch all users with their referral codes.
-- 
+  
 ## Technologies
 
 - Backend: Flask, Flask-SQLAlchemy, Flask-Migrate
